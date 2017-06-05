@@ -1,0 +1,1 @@
+Program contains save from crash. Works, creating temp file, copy temp file and after rename it. Check this.
